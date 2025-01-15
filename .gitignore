@@ -1,6 +1,8 @@
 .DS_Store
 .idea
 .venv
+config.json
+nohup.out
 __pycache__
 /.idea/*
 config.json
